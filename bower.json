@@ -1,0 +1,10 @@
+{
+  "name": "jamiechung-lifewheel",
+  "version": "0.0.0",
+  "dependencies": {
+    "backbone": "latest",
+    "underscore": "latest",
+    "jquery": "latest",
+    "bootstrap": "latest"
+  }
+}
